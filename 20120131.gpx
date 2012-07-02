@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <trk>
+  <name>ACTIVE LOG000652</name>
+  <trkseg>
+   <trkpt lat="37.431705" lon="-122.144972">
+    <ele>-37.146</ele>
+    <time>2012-01-31T04:06:52Z</time>
+   </trkpt>
+   <trkpt lat="37.431705" lon="-122.144972">
+    <ele>-34.873</ele>
+    <time>2012-01-31T04:06:58Z</time>
+   </trkpt>
+   <trkpt lat="37.431705" lon="-122.144972">
+    <ele>-36.675</ele>
+    <time>2012-01-31T04:07:08Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <name>ACTIVE LOG000750</name>
+  <trkseg>
+   <trkpt lat="37.431705" lon="-122.144972">
+    <ele>-36.934</ele>
+    <time>2012-01-31T04:07:50Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <name>ACTIVE LOG000828</name>
+  <trkseg>
+   <trkpt lat="37.431144" lon="-122.145482">
+    <ele>-37.690</ele>
+    <time>2012-01-31T04:08:28Z</time>
+   </trkpt>
+   <trkpt lat="37.431650" lon="-122.145199">
+    <ele>-37.246</ele>
+    <time>2012-01-31T04:09:24Z</time>
+   </trkpt>
+   <trkpt lat="37.431547" lon="-122.145166">
+    <ele>-34.243</ele>
+    <time>2012-01-31T04:13:18Z</time>
+   </trkpt>
+   <trkpt lat="37.431506" lon="-122.145248">
+    <ele>-32.827</ele>
+    <time>2012-01-31T04:13:47Z</time>
+   </trkpt>
+   <trkpt lat="37.431543" lon="-122.145165">
+    <ele>-31.838</ele>
+    <time>2012-01-31T04:14:10Z</time>
+   </trkpt>
+   <trkpt lat="37.431614" lon="-122.145164">
+    <ele>-29.914</ele>
+    <time>2012-01-31T04:14:42Z</time>
+   </trkpt>
+   <trkpt lat="37.431630" lon="-122.145136">
+    <ele>-26.788</ele>
+    <time>2012-01-31T04:15:43Z</time>
+   </trkpt>
+   <trkpt lat="37.431685" lon="-122.145133">
+    <ele>-26.163</ele>
+    <time>2012-01-31T04:16:13Z</time>
+   </trkpt>
+   <trkpt lat="37.431648" lon="-122.145117">
+    <ele>-23.330</ele>
+    <time>2012-01-31T04:17:37Z</time>
+   </trkpt>
+   <trkpt lat="37.431664" lon="-122.145051">
+    <ele>-22.678</ele>
+    <time>2012-01-31T04:18:10Z</time>
+   </trkpt>
+   <trkpt lat="37.431782" lon="-122.145086">
+    <ele>-21.064</ele>
+    <time>2012-01-31T04:19:21Z</time>
+   </trkpt>
+   <trkpt lat="37.431772" lon="-122.145118">
+    <ele>-20.356</ele>
+    <time>2012-01-31T04:19:47Z</time>
+   </trkpt>
+   <trkpt lat="37.431730" lon="-122.145117">
+    <ele>-20.255</ele>
+    <time>2012-01-31T04:20:04Z</time>
+   </trkpt>
+   <trkpt lat="37.431874" lon="-122.145109">
+    <ele>-19.441</ele>
+    <time>2012-01-31T04:20:57Z</time>
+   </trkpt>
+   <trkpt lat="37.431780" lon="-122.145134">
+    <ele>-18.936</ele>
+    <time>2012-01-31T04:21:27Z</time>
+   </trkpt>
+   <trkpt lat="37.431635" lon="-122.145159">
+    <ele>-16.946</ele>
+    <time>2012-01-31T04:23:50Z</time>
+   </trkpt>
+   <trkpt lat="37.431720" lon="-122.145108">
+    <ele>-13.825</ele>
+    <time>2012-01-31T04:27:11Z</time>
+   </trkpt>
+   <trkpt lat="37.431707" lon="-122.145113">
+    <ele>-13.415</ele>
+    <time>2012-01-31T04:28:02Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>

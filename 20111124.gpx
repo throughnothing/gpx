@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <trk>
+  <name>ACTIVE LOG115113</name>
+  <trkseg>
+   <trkpt lat="18.018716" lon="-63.059845">
+    <ele>-0.565</ele>
+    <time>2011-11-24T15:51:13Z</time>
+   </trkpt>
+   <trkpt lat="18.018716" lon="-63.059845">
+    <ele>-1.015</ele>
+    <time>2011-11-24T15:51:20Z</time>
+   </trkpt>
+   <trkpt lat="18.018716" lon="-63.059845">
+    <ele>-1.770</ele>
+    <time>2011-11-24T15:51:25Z</time>
+   </trkpt>
+   <trkpt lat="18.018716" lon="-63.059845">
+    <ele>-0.365</ele>
+    <time>2011-11-24T15:51:27Z</time>
+   </trkpt>
+   <trkpt lat="18.018716" lon="-63.059845">
+    <ele>-0.085</ele>
+    <time>2011-11-24T15:51:32Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <name>ACTIVE LOG115135</name>
+  <trkseg>
+   <trkpt lat="18.017174" lon="-63.059220">
+    <ele>0.787</ele>
+    <time>2011-11-24T15:51:35Z</time>
+   </trkpt>
+   <trkpt lat="18.017204" lon="-63.059338">
+    <ele>2.220</ele>
+    <time>2011-11-24T15:51:42Z</time>
+   </trkpt>
+   <trkpt lat="18.017210" lon="-63.059399">
+    <ele>-0.835</ele>
+    <time>2011-11-24T15:51:45Z</time>
+   </trkpt>
+   <trkpt lat="18.017204" lon="-63.059394">
+    <ele>-0.835</ele>
+    <time>2011-11-24T15:51:46Z</time>
+   </trkpt>
+   <trkpt lat="18.017245" lon="-63.059337">
+    <ele>0.581</ele>
+    <time>2011-11-24T15:52:28Z</time>
+   </trkpt>
+   <trkpt lat="18.017211" lon="-63.059350">
+    <ele>1.588</ele>
+    <time>2011-11-24T15:53:09Z</time>
+   </trkpt>
+   <trkpt lat="18.017214" lon="-63.059342">
+    <ele>1.889</ele>
+    <time>2011-11-24T15:53:17Z</time>
+   </trkpt>
+   <trkpt lat="18.017220" lon="-63.059352">
+    <ele>1.974</ele>
+    <time>2011-11-24T15:53:49Z</time>
+   </trkpt>
+   <trkpt lat="18.017220" lon="-63.059353">
+    <ele>0.486</ele>
+    <time>2011-11-24T15:53:51Z</time>
+   </trkpt>
+   <trkpt lat="18.017241" lon="-63.059361">
+    <ele>3.577</ele>
+    <time>2011-11-24T15:54:29Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+ <trk>
+  <name>ACTIVE LOG121905</name>
+  <trkseg>
+   <trkpt lat="18.017261" lon="-63.059551">
+    <ele>8.553</ele>
+    <time>2011-11-24T16:19:05Z</time>
+   </trkpt>
+   <trkpt lat="18.017182" lon="-63.059474">
+    <ele>8.638</ele>
+    <time>2011-11-24T16:20:50Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
