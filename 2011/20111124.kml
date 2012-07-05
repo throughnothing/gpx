@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+	xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>GPS device</name>
+    <snippet>Created Thu Jul  5 10:25:06 2012</snippet>
+    <LookAt>
+      <gx:TimeSpan>
+        <begin>2011-11-24T15:51:13Z</begin>
+        <end>2011-11-24T16:20:50Z</end>
+      </gx:TimeSpan>
+      <longitude>-63.059533</longitude>
+      <latitude>18.017945</latitude>
+      <range>1300.000000</range>
+    </LookAt>
+<!-- Normal track style -->
+    <Style id="track_n">
+      <IconStyle>
+        <scale>.5</scale>
+        <Icon>
+          <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+<!-- Highlighted track style -->
+    <Style id="track_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="track">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#track_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#track_h</styleUrl>
+      </Pair>
+    </StyleMap>
+<!-- Normal waypoint style -->
+    <Style id="waypoint_n">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+<!-- Highlighted waypoint style -->
+    <Style id="waypoint_h">
+      <IconStyle>
+        <scale>1.2</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <StyleMap id="waypoint">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#waypoint_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#waypoint_h</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="lineStyle">
+      <LineStyle>
+        <color>99ffac59</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <Folder>
+      <name>Tracks</name>
+      <Folder>
+        <name>ACTIVE LOG115113</name>
+        <snippet/>
+        <description>
+<![CDATA[<table>
+            <tr><td><b>Distance</b> 0.0 ft </td></tr>
+            <tr><td><b>Min Alt</b> -5.807 ft </td></tr>
+            <tr><td><b>Max Alt</b> -0.279 ft </td></tr>
+            <tr><td><b>Max Speed</b> 0.0 mph </td></tr>
+            <tr><td><b>Start Time</b> 2011-11-24T15:51:13Z  </td></tr>
+            <tr><td><b>End Time</b> 2011-11-24T15:51:32Z  </td></tr>
+          </table>]]>
+        </description>
+        <TimeSpan>
+          <begin>2011-11-24T15:51:13Z</begin>
+          <end>2011-11-24T15:51:32Z</end>
+        </TimeSpan>
+        <Folder>
+          <name>Points</name>
+          <Placemark>
+            <name>ACTIVE LOG115113-0</name>
+            <snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>Longitude: -63.059845 </td></tr>
+                <tr><td>Latitude: 18.018716 </td></tr>
+                <tr><td>Altitude: -1.854 ft </td></tr>
+                <tr><td>Speed: 0.0 mph </td></tr>
+                <tr><td>Heading: 290.0 </td></tr>
+                <tr><td>Time: 2011-11-24T15:51:13Z </td></tr>
+              </table>
+            ]]></description>
+            <LookAt>
+              <longitude>-63.059845</longitude>
+              <latitude>18.018716</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <TimeStamp><when>2011-11-24T15:51:13Z</when></TimeStamp>
+            <styleUrl>#track</styleUrl>
+            <Point>
+              <coordinates>-63.059845,18.018716,-0.56</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ACTIVE LOG115113-1</name>
+            <snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>Longitude: -63.059845 </td></tr>
+                <tr><td>Latitude: 18.018716 </td></tr>
+                <tr><td>Altitude: -3.330 ft </td></tr>
+                <tr><td>Heading: 0.0 </td></tr>
+                <tr><td>Time: 2011-11-24T15:51:20Z </td></tr>
+              </table>
+            ]]></description>
+            <LookAt>
+              <longitude>-63.059845</longitude>
+              <latitude>18.018716</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <TimeStamp><when>2011-11-24T15:51:20Z</when></TimeStamp>
+            <styleUrl>#track</styleUrl>
+            <Point>
+              <coordinates>-63.059845,18.018716,-1.01</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ACTIVE LOG115113-2</name>
+            <snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>Longitude: -63.059845 </td></tr>
+                <tr><td>Latitude: 18.018716 </td></tr>
+                <tr><td>Altitude: -5.807 ft </td></tr>
+                <tr><td>Heading: 0.0 </td></tr>
+                <tr><td>Time: 2011-11-24T15:51:25Z </td></tr>
+              </table>
+            ]]></description>
+            <LookAt>
+              <longitude>-63.059845</longitude>
+              <latitude>18.018716</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <TimeStamp><when>2011-11-24T15:51:25Z</when></TimeStamp>
+            <styleUrl>#track</styleUrl>
+            <Point>
+              <coordinates>-63.059845,18.018716,-1.77</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ACTIVE LOG115113-3</name>
+            <snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>Longitude: -63.059845 </td></tr>
+                <tr><td>Latitude: 18.018716 </td></tr>
+                <tr><td>Altitude: -1.198 ft </td></tr>
+                <tr><td>Heading: 0.0 </td></tr>
+                <tr><td>Time: 2011-11-24T15:51:27Z </td></tr>
+              </table>
+            ]]></description>
+            <LookAt>
+              <longitude>-63.059845</longitude>
+              <latitude>18.018716</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <TimeStamp><when>2011-11-24T15:51:27Z</when></TimeStamp>
+            <styleUrl>#track</styleUrl>
+            <Point>
+              <coordinates>-63.059845,18.018716,-0.36</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ACTIVE LOG115113-4</name>
+            <snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>Longitude: -63.059845 </td></tr>
+                <tr><td>Latitude: 18.018716 </td></tr>
+                <tr><td>Altitude: -0.279 ft </td></tr>
+                <tr><td>Heading: 0.0 </td></tr>
+                <tr><td>Time: 2011-11-24T15:51:32Z </td></tr>
+              </table>
+            ]]></description>
+            <LookAt>
+              <longitude>-63.059845</longitude>
+              <latitude>18.018716</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <TimeStamp><when>2011-11-24T15:51:32Z</when></TimeStamp>
+            <styleUrl>#track</styleUrl>
+            <Point>
+              <coordinates>-63.059845,18.018716,-0.09</coordinates>
+            </Point>
+          </Placemark>
+        </Folder>
+        <Placemark>
+          <name>Path</name>
+          <styleUrl>#lineStyle</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -63.059845,18.018716,-0.56
+              -63.059845,18.018716,-1.01
+              -63.059845,18.018716,-1.77
+              -63.059845,18.018716,-0.36
+              -63.059845,18.018716,-0.09
+            </coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>ACTIVE LOG115135</name>
+        <snippet/>
+        <description>
+<![CDATA[<table>
+            <tr><td><b>Distance</b> 120.2 ft </td></tr>
+            <tr><td><b>Min Alt</b> -2.740 ft </td></tr>
+            <tr><td><b>Max Alt</b> 11.736 ft </td></tr>
+            <tr><td><b>Max Speed</b> 4.8 mph </td></tr>
+            <tr><td><b>Start Time</b> 2011-11-24T15:51:35Z  </td></tr>
+            <tr><td><b>End Time</b> 2011-11-24T15:54:29Z  </td></tr>
+          </table>]]>
+        </description>
+        <TimeSpan>
+          <begin>2011-11-24T15:51:35Z</begin>
+          <end>2011-11-24T15:54:29Z</end>
+        </TimeSpan>
+        <Folder>
+          <name>Points</name>
+          <Placemark>
+            <name>ACTIVE LOG115135-0</name>
+            <snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>Longitude: -63.059220 </td></tr>
+                <tr><td>Latitude: 18.017174 </td></tr>
+                <tr><td>Altitude: 2.582 ft </td></tr>
+                <tr><td>Speed: 0.0 mph </td></tr>
+                <tr><td>Heading: 290.0 </td></tr>
+                <tr><td>Time: 2011-11-24T15:51:35Z </td></tr>
+              </table>
+            ]]></description>
+            <LookAt>
+              <longitude>-63.059220</longitude>
+              <latitude>18.017174</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <TimeStamp><when>2011-11-24T15:51:35Z</when></TimeStamp>
+            <styleUrl>#track</styleUrl>
+            <Point>
+              <coordinates>-63.059220,18.017174,0.79</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ACTIVE LOG115135-1</name>
+            <snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>Longitude: -63.059338 </td></tr>
+                <tr><td>Latitude: 18.017204 </td></tr>
+                <tr><td>Altitude: 7.283 ft </td></tr>
+                <tr><td>Speed: 4.1 mph </td></tr>
+                <tr><td>Heading: 285.0 </td></tr>
+                <tr><td>Time: 2011-11-24T15:51:42Z </td></tr>
+              </table>
+            ]]></description>
+            <LookAt>
+              <longitude>-63.059338</longitude>
+              <latitude>18.017204</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <TimeStamp><when>2011-11-24T15:51:42Z</when></TimeStamp>
+            <styleUrl>#track</styleUrl>
+            <Point>
+              <coordinates>-63.059338,18.017204,2.22</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ACTIVE LOG115135-2</name>
+            <snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>Longitude: -63.059399 </td></tr>
+                <tr><td>Latitude: 18.017210 </td></tr>
+                <tr><td>Altitude: -2.740 ft </td></tr>
+                <tr><td>Speed: 4.8 mph </td></tr>
+                <tr><td>Heading: 275.9 </td></tr>
+                <tr><td>Time: 2011-11-24T15:51:45Z </td></tr>
+              </table>
+            ]]></description>
+            <LookAt>
+              <longitude>-63.059399</longitude>
+              <latitude>18.017210</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <TimeStamp><when>2011-11-24T15:51:45Z</when></TimeStamp>
+            <styleUrl>#track</styleUrl>
+            <Point>
+              <coordinates>-63.059399,18.017210,-0.83</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ACTIVE LOG115135-3</name>
+            <snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>Longitude: -63.059394 </td></tr>
+                <tr><td>Latitude: 18.017204 </td></tr>
+                <tr><td>Altitude: -2.740 ft </td></tr>
+                <tr><td>Heading: 141.6 </td></tr>
+                <tr><td>Time: 2011-11-24T15:51:46Z </td></tr>
+              </table>
+            ]]></description>
+            <LookAt>
+              <longitude>-63.059394</longitude>
+              <latitude>18.017204</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <TimeStamp><when>2011-11-24T15:51:46Z</when></TimeStamp>
+            <styleUrl>#track</styleUrl>
+            <Point>
+              <coordinates>-63.059394,18.017204,-0.83</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ACTIVE LOG115135-4</name>
+            <snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>Longitude: -63.059337 </td></tr>
+                <tr><td>Latitude: 18.017245 </td></tr>
+                <tr><td>Altitude: 1.906 ft </td></tr>
+                <tr><td>Speed: 0.4 mph </td></tr>
+                <tr><td>Heading: 52.9 </td></tr>
+                <tr><td>Time: 2011-11-24T15:52:28Z </td></tr>
+              </table>
+            ]]></description>
+            <LookAt>
+              <longitude>-63.059337</longitude>
+              <latitude>18.017245</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <TimeStamp><when>2011-11-24T15:52:28Z</when></TimeStamp>
+            <styleUrl>#track</styleUrl>
+            <Point>
+              <coordinates>-63.059337,18.017245,0.58</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ACTIVE LOG115135-5</name>
+            <snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>Longitude: -63.059350 </td></tr>
+                <tr><td>Latitude: 18.017211 </td></tr>
+                <tr><td>Altitude: 5.210 ft </td></tr>
+                <tr><td>Speed: 0.2 mph </td></tr>
+                <tr><td>Heading: 200.0 </td></tr>
+                <tr><td>Time: 2011-11-24T15:53:09Z </td></tr>
+              </table>
+            ]]></description>
+            <LookAt>
+              <longitude>-63.059350</longitude>
+              <latitude>18.017211</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <TimeStamp><when>2011-11-24T15:53:09Z</when></TimeStamp>
+            <styleUrl>#track</styleUrl>
+            <Point>
+              <coordinates>-63.059350,18.017211,1.59</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ACTIVE LOG115135-6</name>
+            <snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>Longitude: -63.059342 </td></tr>
+                <tr><td>Latitude: 18.017214 </td></tr>
+                <tr><td>Altitude: 6.198 ft </td></tr>
+                <tr><td>Heading: 68.5 </td></tr>
+                <tr><td>Time: 2011-11-24T15:53:17Z </td></tr>
+              </table>
+            ]]></description>
+            <LookAt>
+              <longitude>-63.059342</longitude>
+              <latitude>18.017214</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <TimeStamp><when>2011-11-24T15:53:17Z</when></TimeStamp>
+            <styleUrl>#track</styleUrl>
+            <Point>
+              <coordinates>-63.059342,18.017214,1.89</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ACTIVE LOG115135-7</name>
+            <snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>Longitude: -63.059352 </td></tr>
+                <tr><td>Latitude: 18.017220 </td></tr>
+                <tr><td>Altitude: 6.476 ft </td></tr>
+                <tr><td>Speed: 0.1 mph </td></tr>
+                <tr><td>Heading: 302.2 </td></tr>
+                <tr><td>Time: 2011-11-24T15:53:49Z </td></tr>
+              </table>
+            ]]></description>
+            <LookAt>
+              <longitude>-63.059352</longitude>
+              <latitude>18.017220</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <TimeStamp><when>2011-11-24T15:53:49Z</when></TimeStamp>
+            <styleUrl>#track</styleUrl>
+            <Point>
+              <coordinates>-63.059352,18.017220,1.97</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ACTIVE LOG115135-8</name>
+            <snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>Longitude: -63.059353 </td></tr>
+                <tr><td>Latitude: 18.017220 </td></tr>
+                <tr><td>Altitude: 1.594 ft </td></tr>
+                <tr><td>Heading: 270.0 </td></tr>
+                <tr><td>Time: 2011-11-24T15:53:51Z </td></tr>
+              </table>
+            ]]></description>
+            <LookAt>
+              <longitude>-63.059353</longitude>
+              <latitude>18.017220</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <TimeStamp><when>2011-11-24T15:53:51Z</when></TimeStamp>
+            <styleUrl>#track</styleUrl>
+            <Point>
+              <coordinates>-63.059353,18.017220,0.49</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ACTIVE LOG115135-9</name>
+            <snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>Longitude: -63.059361 </td></tr>
+                <tr><td>Latitude: 18.017241 </td></tr>
+                <tr><td>Altitude: 11.736 ft </td></tr>
+                <tr><td>Speed: 0.1 mph </td></tr>
+                <tr><td>Heading: 340.1 </td></tr>
+                <tr><td>Time: 2011-11-24T15:54:29Z </td></tr>
+              </table>
+            ]]></description>
+            <LookAt>
+              <longitude>-63.059361</longitude>
+              <latitude>18.017241</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <TimeStamp><when>2011-11-24T15:54:29Z</when></TimeStamp>
+            <styleUrl>#track</styleUrl>
+            <Point>
+              <coordinates>-63.059361,18.017241,3.58</coordinates>
+            </Point>
+          </Placemark>
+        </Folder>
+        <Placemark>
+          <name>Path</name>
+          <styleUrl>#lineStyle</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -63.059220,18.017174,0.79
+              -63.059338,18.017204,2.22
+              -63.059399,18.017210,-0.83
+              -63.059394,18.017204,-0.83
+              -63.059337,18.017245,0.58
+              -63.059350,18.017211,1.59
+              -63.059342,18.017214,1.89
+              -63.059352,18.017220,1.97
+              -63.059353,18.017220,0.49
+              -63.059361,18.017241,3.58
+            </coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>ACTIVE LOG121905</name>
+        <snippet/>
+        <description>
+<![CDATA[<table>
+            <tr><td><b>Distance</b> 39.3 ft </td></tr>
+            <tr><td><b>Min Alt</b> 28.061 ft </td></tr>
+            <tr><td><b>Max Alt</b> 28.340 ft </td></tr>
+            <tr><td><b>Max Speed</b> 0.3 mph </td></tr>
+            <tr><td><b>Start Time</b> 2011-11-24T16:19:05Z  </td></tr>
+            <tr><td><b>End Time</b> 2011-11-24T16:20:50Z  </td></tr>
+          </table>]]>
+        </description>
+        <TimeSpan>
+          <begin>2011-11-24T16:19:05Z</begin>
+          <end>2011-11-24T16:20:50Z</end>
+        </TimeSpan>
+        <Folder>
+          <name>Points</name>
+          <Placemark>
+            <name>ACTIVE LOG121905-0</name>
+            <snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>Longitude: -63.059551 </td></tr>
+                <tr><td>Latitude: 18.017261 </td></tr>
+                <tr><td>Altitude: 28.061 ft </td></tr>
+                <tr><td>Speed: 0.0 mph </td></tr>
+                <tr><td>Heading: 290.0 </td></tr>
+                <tr><td>Time: 2011-11-24T16:19:05Z </td></tr>
+              </table>
+            ]]></description>
+            <LookAt>
+              <longitude>-63.059551</longitude>
+              <latitude>18.017261</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <TimeStamp><when>2011-11-24T16:19:05Z</when></TimeStamp>
+            <styleUrl>#track</styleUrl>
+            <Point>
+              <coordinates>-63.059551,18.017261,8.55</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>ACTIVE LOG121905-1</name>
+            <snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>Longitude: -63.059474 </td></tr>
+                <tr><td>Latitude: 18.017182 </td></tr>
+                <tr><td>Altitude: 28.340 ft </td></tr>
+                <tr><td>Speed: 0.3 mph </td></tr>
+                <tr><td>Heading: 137.2 </td></tr>
+                <tr><td>Time: 2011-11-24T16:20:50Z </td></tr>
+              </table>
+            ]]></description>
+            <LookAt>
+              <longitude>-63.059474</longitude>
+              <latitude>18.017182</latitude>
+              <tilt>66</tilt>
+            </LookAt>
+            <TimeStamp><when>2011-11-24T16:20:50Z</when></TimeStamp>
+            <styleUrl>#track</styleUrl>
+            <Point>
+              <coordinates>-63.059474,18.017182,8.64</coordinates>
+            </Point>
+          </Placemark>
+        </Folder>
+        <Placemark>
+          <name>Path</name>
+          <styleUrl>#lineStyle</styleUrl>
+          <LineString>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -63.059551,18.017261,8.55
+              -63.059474,18.017182,8.64
+            </coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+    </Folder>
+  </Document>
+</kml>
