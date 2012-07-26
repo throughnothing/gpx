@@ -1,0 +1,15 @@
+#!/usr/bin/env perl
+# Convert .gpx files to .kml
+# Requires gpsbabel
+use strict; use warnings;
+
+for ( glob './*/*.kml' ) {
+    ( my $gpx = $_ ) =~ s/\.kml/\.gpx/;
+    # Also get rid of -'s
+    $gpx =~ s/-//g;
+    # Check if the .kml exists, if so move along
+    ( print "Skipping $gpx...\n" and next ) if -e $gpx;
+
+    print "Converting $_ to $gpx...\n";
+    `gpsbabel -i kml -f $_ -o gpx -F $gpx`;
+}
