@@ -943,17 +943,6 @@
    </trkpt>
   </trkseg>
  </trk>
-</gpx>
->
-    <ele>50.044</ele>
-    <time>2011-06-25T18:02:39Z</time>
-   </trkpt>
-   <trkpt lat="28.480535" lon="77.068284">
-    <ele>325.040</ele>
-    <time>2011-08-05T16:49:23Z</time>
-   </trkpt>
-  </trkseg>
- </trk>
  <trk>
   <name>ACTIVE LOG125002</name>
   <trkseg>
