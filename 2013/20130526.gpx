@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <trk>
+  <name>ACTIVE LOG235922</name>
+  <trkseg>
+   <trkpt lat="37.792222" lon="-122.408224">
+    <ele>-52.302</ele>
+    <time>2013-05-26T23:00:49Z</time>
+   </trkpt>
+   <trkpt lat="37.896990" lon="-122.515784">
+    <ele>-52.461</ele>
+    <time>2013-05-26T22:59:29Z</time>
+   </trkpt>
+   <trkpt lat="37.898904" lon="-122.515626">
+    <ele>-49.300</ele>
+    <time>2013-05-26T22:59:45Z</time>
+   </trkpt>
+   <trkpt lat="37.900696" lon="-122.515414">
+    <ele>-48.117</ele>
+    <time>2013-05-26T22:59:59Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
