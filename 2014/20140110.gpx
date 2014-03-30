@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <trk>
+  <name>ACTIVE LOG161233</name>
+  <trkseg>
+   <trkpt lat="49.998571" lon="8.481519">
+    <ele>-39.767</ele>
+    <time>2014-01-10T16:14:09Z</time>
+   </trkpt>
+   <trkpt lat="37.791747" lon="-122.407799">
+    <ele>-39.661</ele>
+    <time>2014-01-10T16:12:47Z</time>
+   </trkpt>
+   <trkpt lat="37.792221" lon="-122.407978">
+    <ele>-39.756</ele>
+    <time>2014-01-10T16:12:58Z</time>
+   </trkpt>
+   <trkpt lat="37.792200" lon="-122.408055">
+    <ele>-39.048</ele>
+    <time>2014-01-10T16:13:14Z</time>
+   </trkpt>
+   <trkpt lat="37.792207" lon="-122.408087">
+    <ele>-39.978</ele>
+    <time>2014-01-10T16:13:21Z</time>
+   </trkpt>
+   <trkpt lat="37.792305" lon="-122.407954">
+    <ele>-39.133</ele>
+    <time>2014-01-10T16:13:34Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
